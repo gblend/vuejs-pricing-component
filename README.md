@@ -1,4 +1,4 @@
-# autocomplete
+# vuejs pricing component
 
 ## Project setup
 ```
